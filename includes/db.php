@@ -2,7 +2,7 @@
 $servername = "localhost"; // The default for the host / server name when running in the development environment
 $port = "3306"; // Default port for MySQL
 $username = "username"; // The username you set when you set up MySQL
-$password = "password"; // The password you set when you set up MySQL
+$password = "your-password"; // The password you set when you set up MySQL
 $dbname = "ktp_db"; // The name of the database you set when you ran the script for the database.
 
 try {

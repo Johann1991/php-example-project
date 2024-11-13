@@ -23,6 +23,11 @@ header, footer {
     width: 100%;
 }
 
+header > nav > a{
+    color: #fff;
+    text-decoration: none;
+}
+
 footer {
     margin-top: auto;
 }
